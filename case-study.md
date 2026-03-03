@@ -1,7 +1,4 @@
----
-title: "00: ChocoMarket"
-description: "Chocolate supply platform."
----
+# Case Study: ChocoMarket
 
 ## Background
 
